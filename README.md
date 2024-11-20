@@ -9,7 +9,7 @@ Tools Required:
 
 Circuit Diagram:
 
-![WhatsApp Image 2024-11-17 at 4 00 55 PM](https://github.com/user-attachments/assets/c2b34920-a280-4c8c-9cf2-b500e1d3ec8e)
+![WhatsApp Image 2024-11-13 at 4 26 08 PM](https://github.com/user-attachments/assets/01247fa5-8d5e-46c4-b179-9ad6eba9fa38)
 
 
 S C H E M A T I C S I M U L A T I O N
